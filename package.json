@@ -1,0 +1,17 @@
+{
+  "name": "dsga1003",
+  "private": true,
+  "scripts": {
+    "build-in-place": "npm run template && npm run stylus",
+    "template": "node ./build/templater.js index.hbs index.html",
+    "stylus": "stylus styles"
+  },
+  "devDependencies": {
+    "handlebars": "^4.0.6",
+    "js-yaml": "^3.2.5",
+    "glob": "^7.1.2",
+    "moment": "^2.9.0",
+    "slugg": "^1.0.0",
+    "stylus": "0.54.5"
+  }
+}
