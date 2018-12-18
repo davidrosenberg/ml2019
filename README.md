@@ -24,8 +24,6 @@ Run the script `./deploy.sh` from the root directory of the project to build and
 
 [Handlebars](http://handlebarsjs.com/) is used for templating. `index.hbs` is minimally templated, mostly delegating to the partials in `templates/`. Those pull their data from `data/`. The logic that ties them all together is in `build/templater.js`.
 
-[Gulp](http://gulpjs.com/) is used for a build/watch system. This is abstracted behind npm tasks though (`npm run watch`, `npm run build`).
-
 The site is intended to be responsive, which we accomplish with per-device stylesheets and media queries in the HTML.
 
 ### Things to Keep in Mind
