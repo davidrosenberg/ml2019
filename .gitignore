@@ -1,0 +1,10 @@
+# Node
+package-lock.json
+node_modules
+
+# Misc
+styles
+index.html
+
+# Build site
+out
