@@ -1,4 +1,4 @@
--
+﻿-
   Title: Week 0
   Events:
     2000-01-01:
@@ -20,11 +20,11 @@
       Label: Lecture
       Slides:
         - {Course Logistics and Overview: "https://davidrosenberg.github.io/mlcourse/Lectures/01a.course-logistics.pdf"}
-#        - {Statistical Learning Theory: "https://davidrosenberg.github.io/mlcourse/Lectures/01b.intro-stat-learning-theory.pdf"}
+        - {Statistical Learning Theory: "https://davidrosenberg.github.io/mlcourse/Lectures/01b.intro-stat-learning-theory.pdf"}
 #        - {Stochastic Gradient Descent: "https://davidrosenberg.github.io/mlcourse/Lectures/01c.SGD.pdf"}
 #        - {Excess Risk Decomposition: "https://davidrosenberg.github.io/mlcourse/Lectures/01d.excess-risk-decomposition.pdf"}
       Notes:
-#        - {Conditional Expectations: "https://davidrosenberg.github.io/mlcourse/Notes/conditional-expectations.pdf"}
+        - {Conditional Expectations: "https://davidrosenberg.github.io/mlcourse/Notes/conditional-expectations.pdf"}
 #        - {SLT and SGD Concept Check Questions: "https://davidrosenberg.github.io/mlcourse/ConceptChecks/1-Lec-Check.pdf"}
 #        - {SLT and SGD Concept Check Solutions: "https://davidrosenberg.github.io/mlcourse/ConceptChecks/1-Lec-Check_sol.pdf"}
       References:
@@ -32,29 +32,29 @@
     2019-01-30:
       Label: Lab
       Slides:
-        - {Gradients and Directional Derivatives: "https://davidrosenberg.github.io/mlcourse/Labs/1-gradients-Slides.pdf"}
+#       - {Gradients and Directional Derivatives: "https://davidrosenberg.github.io/mlcourse/Labs/1-gradients-Slides.pdf"}
       Notes:
-        - {Gradients and Directional Derivatives: "https://davidrosenberg.github.io/mlcourse/Labs/1-gradients-Notes_sol.pdf"}
-        - {Gradient Concept Check Questions: "https://davidrosenberg.github.io/mlcourse/ConceptChecks/1-Lab-Check.pdf"}
-        - {Gradient Concept Check Solutions: "https://davidrosenberg.github.io/mlcourse/ConceptChecks/1-Lab-Check_sol.pdf"}
-        - {Directional Derivatives and Approximation (Short): "https://davidrosenberg.github.io/mlcourse/Notes/directional-derivative.pdf"}
+#        - {Gradients and Directional Derivatives: "https://davidrosenberg.github.io/mlcourse/Labs/1-gradients-Notes_sol.pdf"}
+#        - {Gradient Concept Check Questions: "https://davidrosenberg.github.io/mlcourse/ConceptChecks/1-Lab-Check.pdf"}
+#        - {Gradient Concept Check Solutions: "https://davidrosenberg.github.io/mlcourse/ConceptChecks/1-Lab-Check_sol.pdf"}
+#        - {Directional Derivatives and Approximation (Short): "https://davidrosenberg.github.io/mlcourse/Notes/directional-derivative.pdf"}
       References:
-        - {(Optional) Barnes "Matrix Differentiation" notes: "http://www.atmos.washington.edu/~dennis/MatrixCalculus.pdf"}
+#        - {Barnes "Matrix Differentiation" notes: "http://www.atmos.washington.edu/~dennis/MatrixCalculus.pdf"}
 -
   Title: Week 2
   Events:
     2019-02-05:
       Label: Lecture
       Slides:
-        - {Stochastic Gradient Descent: "https://davidrosenberg.github.io/mlcourse/Lectures/02a.SGD.pdf"}
-        - {Excess Risk Decomposition: "https://davidrosenberg.github.io/mlcourse/Lectures/02b.excess-risk-decomposition.pdf"}
-        - {L1 and L2 regularization: "https://davidrosenberg.github.io/mlcourse/Lectures/02c.L1L2-regularization.pdf"}
+#        - {Stochastic Gradient Descent: "https://davidrosenberg.github.io/mlcourse/Lectures/02a.SGD.pdf"}
+#        - {Excess Risk Decomposition: "https://davidrosenberg.github.io/mlcourse/Lectures/02b.excess-risk-decomposition.pdf"}
+#        - {L1 and L2 regularization: "https://davidrosenberg.github.io/mlcourse/Lectures/02c.L1L2-regularization.pdf"}
       Notes:
-        - {PreLecture Concept Check Questions: "https://davidrosenberg.github.io/mlcourse/ConceptChecks/2-PreLec-Check.pdf"}
-        - {PreLecture Concept Check Solutions: "https://davidrosenberg.github.io/mlcourse/ConceptChecks/2-PreLec-Check_sol.pdf"}
-        - {Completing the Square: "https://davidrosenberg.github.io/mlcourse/Notes/completing-the-square.pdf"}
-        - {Excess Risk and L1/L2 Questions: "https://davidrosenberg.github.io/mlcourse/ConceptChecks/2-Lec-Check.pdf"}
-        - {Excess Risk and L1/L2 Solutions: "https://davidrosenberg.github.io/mlcourse/ConceptChecks/2-Lec-Check_sol.pdf"}
+#        - {PreLecture Concept Check Questions: "https://davidrosenberg.github.io/mlcourse/ConceptChecks/2-PreLec-Check.pdf"}
+#        - {PreLecture Concept Check Solutions: "https://davidrosenberg.github.io/mlcourse/ConceptChecks/2-PreLec-Check_sol.pdf"}
+#        - {Completing the Square: "https://davidrosenberg.github.io/mlcourse/Notes/completing-the-square.pdf"}
+#        - {Excess Risk and L1/L2 Questions: "https://davidrosenberg.github.io/mlcourse/ConceptChecks/2-Lec-Check.pdf"}
+#        - {Excess Risk and L1/L2 Solutions: "https://davidrosenberg.github.io/mlcourse/ConceptChecks/2-Lec-Check_sol.pdf"}
       References:
         - "HTF Ch. 3"
     2019-02-06:
