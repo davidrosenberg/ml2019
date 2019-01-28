@@ -219,7 +219,7 @@ body > section > section > h1 {
 }
 #course-info th {
   font-weight: bold;
-  min-width: 170px;
+  min-width: 200px;
   vertical-align: top;
   font-size: 20px;
   color: #57078e;
