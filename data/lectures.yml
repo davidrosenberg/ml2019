@@ -47,7 +47,7 @@
       Label: Lecture
       Slides:
        - {Stochastic Gradient Descent: "https://davidrosenberg.github.io/mlcourse/Lectures/02a.SGD.pdf"}
-       - {Excess Risk Decomposition: "https://davidrosenberg.github.io/mlcourse/Lectures/02b.excess-risk-decomposition.pdf"}
+       - {Gradient Descent: "https://davidrosenberg.github.io/mlcourse/Lectures/02b.gradient-descent.pdf"}
        - {L1 and L2 regularization: "https://davidrosenberg.github.io/mlcourse/Lectures/02c.L1L2-regularization.pdf"}
       Notes:
 #        - {PreLecture Concept Check Questions: "https://davidrosenberg.github.io/mlcourse/ConceptChecks/2-PreLec-Check.pdf"}
