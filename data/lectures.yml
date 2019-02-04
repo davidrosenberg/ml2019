@@ -50,11 +50,11 @@
        - {Gradient Descent: "https://davidrosenberg.github.io/mlcourse/Lectures/02b.gradient-descent.pdf"}
        - {L1 and L2 regularization: "https://davidrosenberg.github.io/mlcourse/Lectures/02c.L1L2-regularization.pdf"}
       Notes:
-#        - {PreLecture Concept Check Questions: "https://davidrosenberg.github.io/mlcourse/ConceptChecks/2-PreLec-Check.pdf"}
-#        - {PreLecture Concept Check Solutions: "https://davidrosenberg.github.io/mlcourse/ConceptChecks/2-PreLec-Check_sol.pdf"}
+       - {PreLecture Concept Check Questions: "https://davidrosenberg.github.io/mlcourse/ConceptChecks/2-PreLec-Check.pdf"}
+       - {PreLecture Concept Check Solutions: "https://davidrosenberg.github.io/mlcourse/ConceptChecks/2-PreLec-Check_sol.pdf"}
        - {Completing the Square: "https://davidrosenberg.github.io/mlcourse/Notes/completing-the-square.pdf"}
-#        - {Excess Risk and L1/L2 Questions: "https://davidrosenberg.github.io/mlcourse/ConceptChecks/2-Lec-Check.pdf"}
-#        - {Excess Risk and L1/L2 Solutions: "https://davidrosenberg.github.io/mlcourse/ConceptChecks/2-Lec-Check_sol.pdf"}
+       - {'Excess Risk, Stochastic Gradient Descent and L1/L2 Questions': "https://davidrosenberg.github.io/mlcourse/ConceptChecks/2-Lec-Check.pdf"}
+       - {'Excess Risk, Stochastic Gradient Descent and L1/L2 Solutions': "https://davidrosenberg.github.io/mlcourse/ConceptChecks/2-Lec-Check_sol.pdf"}
       References:
         - "HTF Ch. 3"
     2019-02-06:
