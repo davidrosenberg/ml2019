@@ -46,13 +46,13 @@
     2019-02-05:
       Label: Lecture
       Slides:
-#        - {Stochastic Gradient Descent: "https://davidrosenberg.github.io/mlcourse/Lectures/02a.SGD.pdf"}
-#        - {Excess Risk Decomposition: "https://davidrosenberg.github.io/mlcourse/Lectures/02b.excess-risk-decomposition.pdf"}
-#        - {L1 and L2 regularization: "https://davidrosenberg.github.io/mlcourse/Lectures/02c.L1L2-regularization.pdf"}
+       - {Stochastic Gradient Descent: "https://davidrosenberg.github.io/mlcourse/Lectures/02a.SGD.pdf"}
+       - {Excess Risk Decomposition: "https://davidrosenberg.github.io/mlcourse/Lectures/02b.excess-risk-decomposition.pdf"}
+       - {L1 and L2 regularization: "https://davidrosenberg.github.io/mlcourse/Lectures/02c.L1L2-regularization.pdf"}
       Notes:
 #        - {PreLecture Concept Check Questions: "https://davidrosenberg.github.io/mlcourse/ConceptChecks/2-PreLec-Check.pdf"}
 #        - {PreLecture Concept Check Solutions: "https://davidrosenberg.github.io/mlcourse/ConceptChecks/2-PreLec-Check_sol.pdf"}
-#        - {Completing the Square: "https://davidrosenberg.github.io/mlcourse/Notes/completing-the-square.pdf"}
+       - {Completing the Square: "https://davidrosenberg.github.io/mlcourse/Notes/completing-the-square.pdf"}
 #        - {Excess Risk and L1/L2 Questions: "https://davidrosenberg.github.io/mlcourse/ConceptChecks/2-Lec-Check.pdf"}
 #        - {Excess Risk and L1/L2 Solutions: "https://davidrosenberg.github.io/mlcourse/ConceptChecks/2-Lec-Check_sol.pdf"}
       References:
