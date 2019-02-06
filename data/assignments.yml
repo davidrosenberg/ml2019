@@ -13,4 +13,9 @@ Submit link: "https://gradescope.com"
   Due: 2019-02-09
   PDF: {hw1.pdf: "https://davidrosenberg.github.io/mlcourse/Homework/hw1.pdf"}
   ZIP: {hw1.zip: "https://davidrosenberg.github.io/mlcourse/Homework/hw1.zip"}
-
+-
+  Label: Homework 2
+  Description: 
+  Due: 2019-02-18
+  PDF: {hw2.pdf: "https://davidrosenberg.github.io/mlcourse/Homework/hw2.pdf"}
+  ZIP: {hw2.zip: "https://davidrosenberg.github.io/mlcourse/Homework/hw2.zip"}
