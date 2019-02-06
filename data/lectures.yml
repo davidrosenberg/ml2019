@@ -60,9 +60,10 @@
     2019-02-06:
       Label: Lab
       Slides:
-#        - {Grouping and Elastic Net: "https://davidrosenberg.github.io/mlcourse/Archive/2017/Lectures/3a.elastic-net.pdf"}
+       # - {Grouping and Elastic Net: "https://davidrosenberg.github.io/mlcourse/Archive/2017/Lectures/3a.elastic-net.pdf"}
+       - {STL & Excess Risk Decomposition Demo Questions (ipynb) : "https://davidrosenberg.github.io/mlcourse/Labs/2-STL_Lab-Questions.ipynb"}
       References:
-        - "HTF 3.4"
+        # - "HTF 3.4"
 -
   Title: Week 3
   Events:
