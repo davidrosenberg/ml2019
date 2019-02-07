@@ -62,6 +62,7 @@
       Slides:
        # - {Grouping and Elastic Net: "https://davidrosenberg.github.io/mlcourse/Archive/2017/Lectures/3a.elastic-net.pdf"}
        - {STL & Excess Risk Decomposition Demo Questions (ipynb) : "https://davidrosenberg.github.io/mlcourse/Labs/2-STL_Lab-Questions.ipynb"}
+       - {STL & Excess Risk Decomposition Demo Answers (ipynb) : "https://davidrosenberg.github.io/mlcourse/Labs/2-STL_Lab-Answers.ipynb"}
       References:
         # - "HTF 3.4"
 -
