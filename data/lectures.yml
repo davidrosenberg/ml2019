@@ -82,7 +82,7 @@
     2019-02-13:
       Label: Lab
       Slides:
-#        - {Subgradient Descent: "https://davidrosenberg.github.io/mlcourse/Lectures/03c.subgradient-descent.pdf"}
+       - {Subgradient Descent: "https://davidrosenberg.github.io/mlcourse/Lectures/03c.subgradient-descent-lasso.pdf"}
 
 -
   Title: Week 4
