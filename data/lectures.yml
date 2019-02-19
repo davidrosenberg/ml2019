@@ -85,6 +85,8 @@
        - {Subgradient Descent: "https://davidrosenberg.github.io/mlcourse/Lectures/03c.subgradient-descent-lasso.pdf"}
       Notes:
        - {"Subgradients": "https://davidrosenberg.github.io/mlcourse/Labs/4-Subgradients-Notes_sol.pdf"}
+       - {Subgradients and Lagrangian Duality Questions: "https://davidrosenberg.github.io/mlcourse/ConceptChecks/3-Lab-Check.pdf"}
+       - {Subgradients and Lagrangian Duality Solutions: "https://davidrosenberg.github.io/mlcourse/ConceptChecks/3-Lab-Check_sol.pdf"}
       References:
        - {'Boyd subgradient notes': "http://web.stanford.edu/class/ee364b/lectures.html"}
 
