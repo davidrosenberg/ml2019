@@ -113,8 +113,11 @@
     2019-02-20:
       Label: Lab
       Slides:
+        - {Geometric Derivation of SVMs: "https://davidrosenberg.github.io/mlcourse/Labs/3-SVM-Slides.pdf"}
 #        - {Features: "https://github.com/davidrosenberg/mlcourse/blob/gh-pages/Labs/4-Features/tex/04e.features.pdf"}
       Notes:
+        - {Geometric Derivation of SVMs: "https://davidrosenberg.github.io/mlcourse/Labs/3-SVM-Notes_sol.pdf"}
+        - {Uniqueness of SVM Solution: "https://davidrosenberg.github.io/mlcourse/Labs/UniquenessOfSVM.pdf"}
 #        - {Simplest Example: "https://github.com/davidrosenberg/mlcourse/blob/gh-pages/Notebooks/Features/simple_feature_transformations.ipynb"}
 #        - {Ingesting text with BOW: "https://github.com/davidrosenberg/mlcourse/blob/gh-pages/Notebooks/Features/test_BOW.ipynb"}
 #        - {Polynomial features: "https://github.com/davidrosenberg/mlcourse/blob/gh-pages/Notebooks/Features/polynomial_feature_comparison.ipynb"}
