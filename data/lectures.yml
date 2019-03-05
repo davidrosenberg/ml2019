@@ -149,9 +149,11 @@
     2019-03-05:
       Label: Lecture
       Slides:
-#        - {Conditional Probability Models: "https://davidrosenberg.github.io/mlcourse/Lectures/06a.conditional-probability-models.pdf"}
+       - {CitySense: "https://davidrosenberg.github.io/mlcourse/Lectures/05b.citysense.pdf"}
+       - {Maximum Likelihood: "https://davidrosenberg.github.io/mlcourse/Lectures/05c.MLE.pdf"}
+       - {Conditional Probability Models: "https://davidrosenberg.github.io/mlcourse/Lectures/06a.conditional-probability-models.pdf"}
       Notes:
-#        - {"Exponential Distribution Example (First part)": "https://davidrosenberg.github.io/mlcourse/Notes/conditional-exponential-distributions.pdf"}
+       - {"Exponential Distribution Example (First part)": "https://davidrosenberg.github.io/mlcourse/Notes/conditional-exponential-distributions.pdf"}
 #        - {Conditional Model Questions: "https://davidrosenberg.github.io/mlcourse/ConceptChecks/10-Lab-Check.pdf"}
 #        - {Conditional Model Solutions: "https://davidrosenberg.github.io/mlcourse/ConceptChecks/10-Lab-Check_sol.pdf"}
     2019-03-06:
