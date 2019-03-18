@@ -153,12 +153,12 @@
        - {Conditional Probability Models: "https://davidrosenberg.github.io/mlcourse/Lectures/06a.conditional-probability-models.pdf"}
       Notes:
        - {"Exponential Distribution Example (First part)": "https://davidrosenberg.github.io/mlcourse/Notes/conditional-exponential-distributions.pdf"}
-#        - {Conditional Model Questions: "https://davidrosenberg.github.io/mlcourse/ConceptChecks/10-Lab-Check.pdf"}
-#        - {Conditional Model Solutions: "https://davidrosenberg.github.io/mlcourse/ConceptChecks/10-Lab-Check_sol.pdf"}
+       - {Conditional Model Questions: "https://davidrosenberg.github.io/mlcourse/ConceptChecks/10-Lab-Check.pdf"}
+       - {Conditional Model Solutions: "https://davidrosenberg.github.io/mlcourse/ConceptChecks/10-Lab-Check_sol.pdf"}
     2019-03-06:
       Label: Lab
       Slides:
-#        - {Review for Midterm: "https://davidrosenberg.github.io/mlcourse/Lectures/06c.midterm-review.pdf"}
+       - {Review for Midterm: "https:///davidrosenberg.github.io/mlcourse/Labs/midterm-review.pdf"}
 -
   Title: Week 7
   Events:
@@ -166,6 +166,8 @@
       Label: Midterm Exam
     2019-03-13:
       Label: Lab
+      Slides:
+       - {Review for MLE and Conditional Model: "https:///davidrosenberg.github.io/mlcourse/Labs/Review-MLE-Conditional-probability-densities.pdf"}
 -
   Title: Week 8
   Events:
