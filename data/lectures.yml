@@ -192,7 +192,8 @@
     2019-04-02:
       Label: Lecture
       Slides:
-#        - {'Bayesian Conditional Models': "https://davidrosenberg.github.io/mlcourse/Lectures/09a.bayesian-regression.pdf"}
+       - {'Multiclass': "https://davidrosenberg.github.io/mlcourse/Lectures/09b.multiclass.pdf"}
+       - {'Classification and Regression Trees': "https://davidrosenberg.github.io/mlcourse/Lectures/10a.trees.pdf"}
       Notes:
 #        - {"Proportionality Review": "https://davidrosenberg.github.io/mlcourse/Notes/proportionality.pdf"}
 #        - {"Multivariate Gaussians (draft)": "https://davidrosenberg.github.io/mlcourse/in-prep/multivariate-gaussian.pdf"}
@@ -200,8 +201,12 @@
 #        - {Bayesian Methods and Regression Questions: "https://davidrosenberg.github.io/mlcourse/ConceptChecks/11-Lec-Check.pdf"}
 #        - {Bayesian Methods and Regression Solutions: "https://davidrosenberg.github.io/mlcourse/ConceptChecks/11-Lec-Check_sol.pdf"}
       References:
-#        - "Barber 9.1, 18.1"
-#        - "Bishop 3.3"
+       - "SSBD Chapter 17"
+       - {In Defense of One-Vs-All Classification: "http://www.jmlr.org/papers/v5/rifkin04a.html"}
+       - {Reducing Multiclass to Binary: "http://www.jmlr.org/papers/volume1/allwein00a/allwein00a.pdf"}
+       - "JWHT 8.1 (Trees)"
+       - "HTF 9.2 (Trees)"
+
     2019-04-03:
       Label: Lab
       Slides:
@@ -210,7 +215,7 @@
 #        - {"Multiclass Questions": "https://davidrosenberg.github.io/mlcourse/ConceptChecks/7-Lec-Check.pdf"}
 #        - {"Multiclass Solutions": "https://davidrosenberg.github.io/mlcourse/ConceptChecks/7-Lec-Check_sol.pdf"}
       References:
-#        - "SSBD Chapter 17"
+       # - "SSBD Chapter 17"
 #        - {In Defense of One-Vs-All Classification: "http://www.jmlr.org/papers/v5/rifkin04a.html"}
 #        - {Reducing Multiclass to Binary: "http://www.jmlr.org/papers/volume1/allwein00a/allwein00a.pdf"}
 -
