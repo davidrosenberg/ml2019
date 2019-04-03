@@ -211,7 +211,7 @@
     2019-04-03:
       Label: Lab
       Slides:
-#        - {'Multiclass': "https://davidrosenberg.github.io/mlcourse/Lectures/09b.multiclass.pdf"}
+       - {'Structured-Prediction-and-Bayesian-Recap': "https://davidrosenberg.github.io/mlcourse/Labs/structured_prediction_bayesian_recap.pdf"}
       Notes:
 #        - {"Multiclass Questions": "https://davidrosenberg.github.io/mlcourse/ConceptChecks/7-Lec-Check.pdf"}
 #        - {"Multiclass Solutions": "https://davidrosenberg.github.io/mlcourse/ConceptChecks/7-Lec-Check_sol.pdf"}
