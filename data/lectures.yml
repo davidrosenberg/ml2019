@@ -195,7 +195,7 @@
       Label: Lecture
       Slides:
        - {'Multiclass': "https://davidrosenberg.github.io/mlcourse/Lectures/09b.multiclass.pdf"}
-       - {'Classification and Regression Trees': "https://davidrosenberg.github.io/mlcourse/Lectures/10a.trees.pdf"}
+       # - {'Classification and Regression Trees': "https://davidrosenberg.github.io/mlcourse/Lectures/10a.trees.pdf"}
       Notes:
        - {"Multiclass Questions": "https://davidrosenberg.github.io/mlcourse/ConceptChecks/7-Lec-Check.pdf"}
        - {"Multiclass Solutions": "https://davidrosenberg.github.io/mlcourse/ConceptChecks/7-Lec-Check_sol.pdf"}
@@ -207,13 +207,13 @@
        - "SSBD Chapter 17"
        - {In Defense of One-Vs-All Classification: "http://www.jmlr.org/papers/v5/rifkin04a.html"}
        - {Reducing Multiclass to Binary: "http://www.jmlr.org/papers/volume1/allwein00a/allwein00a.pdf"}
-       - "JWHT 8.1 (Trees)"
-       - "HTF 9.2 (Trees)"
+       # - "JWHT 8.1 (Trees)"
+       # - "HTF 9.2 (Trees)"
 
     2019-04-03:
       Label: Lab
       Slides:
-#        - {'Multiclass': "https://davidrosenberg.github.io/mlcourse/Lectures/09b.multiclass.pdf"}
+       - {'Structured-Prediction-and-Bayesian-Recap': "https://davidrosenberg.github.io/mlcourse/Labs/structured_prediction_bayesian_recap.pdf"}
       Notes:
 #        - {"Multiclass Questions": "https://davidrosenberg.github.io/mlcourse/ConceptChecks/7-Lec-Check.pdf"}
 #        - {"Multiclass Solutions": "https://davidrosenberg.github.io/mlcourse/ConceptChecks/7-Lec-Check_sol.pdf"}
