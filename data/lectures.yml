@@ -227,10 +227,13 @@
     2019-04-09:
       Label: Lecture
       Slides:
-#        - {Classification and Regression Trees: "https://davidrosenberg.github.io/mlcourse/Lectures/10a.trees.pdf"}
+       - {'Classification and Regression Trees': "https://davidrosenberg.github.io/mlcourse/Lectures/10a.trees.pdf"}
+       - {'Intro to the Bootstrap': "https://davidrosenberg.github.io/mlcourse/Lectures/10b.bootstrap.pdf"}
       References:
-#        - "JWHT 8.1 (Trees)"
-#        - "HTF 9.2 (Trees)"
+       - "JWHT 8.1 (Trees)"
+       - "HTF 9.2 (Trees)"
+       - "JWHT 5.2 (Bootstrap)"
+       - "HTF 7.11 (Bootstrap)"
     2019-04-10:
       Label: Lab
       Slides:
