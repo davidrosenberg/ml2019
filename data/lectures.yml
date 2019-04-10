@@ -237,7 +237,7 @@
     2019-04-10:
       Label: Lab
       Slides:
-#        - {'Intro to the Bootstrap': "https://davidrosenberg.github.io/mlcourse/Lectures/10b.bootstrap.pdf"}
+       - {'Multiclass and Trees Questions': "https://davidrosenberg.github.io/mlcourse/Labs/Multiclass_trees_week10.pdf"}
       References:
 #        - "JWHT 5.2 (Bootstrap)"
 #        - "HTF 7.11 (Bootstrap)"
