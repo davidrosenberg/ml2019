@@ -228,12 +228,9 @@
       Label: Lecture
       Slides:
        - {'Classification and Regression Trees': "https://davidrosenberg.github.io/mlcourse/Lectures/10a.trees.pdf"}
-       - {'Intro to the Bootstrap': "https://davidrosenberg.github.io/mlcourse/Lectures/10b.bootstrap.pdf"}
       References:
        - "JWHT 8.1 (Trees)"
        - "HTF 9.2 (Trees)"
-       - "JWHT 5.2 (Bootstrap)"
-       - "HTF 7.11 (Bootstrap)"
     2019-04-10:
       Label: Lab
       Slides:
@@ -247,15 +244,18 @@
     2019-04-16:
       Label: Lecture
       Slides:
-#        - {'Bagging and Random Forests': "https://davidrosenberg.github.io/mlcourse/Lectures/11a.bagging-random-forests.pdf"}
-#        - {'Adaboost [Optional]': "https://davidrosenberg.github.io/mlcourse/Archive/2017/Lectures/9b.adaboost.pdf"}
+        - {'Intro to the Bootstrap': "https://davidrosenberg.github.io/mlcourse/Lectures/11a.bootstrap.pdf"}
+        - {'Bagging and Random Forests': "https://davidrosenberg.github.io/mlcourse/Lectures/11b.bagging-random-forests.pdf"}
+        - {'Adaboost': "https://davidrosenberg.github.io/mlcourse/Lectures/11c.adaboost.pdf"}
       Notes:
 #        - {"Trees, Bootstrap, Bagging, and RF Questions": "https://davidrosenberg.github.io/mlcourse/ConceptChecks/9-Lec-Check.pdf"}
 #        - {"Trees, Bootstrap, Bagging, and RF Solutions": "https://davidrosenberg.github.io/mlcourse/ConceptChecks/9-Lec-Check_sol.pdf"}
       References:
-#        - "JWHT 8.2 (Bagging/RF)"
-#        - "HTF 8.7, 15, 10 (Bagging/RF)"
-#        - {A Conversation with Jerry Friedman: "https://arxiv.org/pdf/1507.08502.pdf"}
+        - "JWHT 5.2 (Bootstrap)"
+        - "HTF 7.11 (Bootstrap)"
+        - "JWHT 8.2 (Bagging/RF)"
+        - "HTF 8.7, 15, 10 (Bagging/RF)"
+        - {A Conversation with Jerry Friedman: "https://arxiv.org/pdf/1507.08502.pdf"}
     2019-04-17:
       Label: Lab
       Slides:
