@@ -248,8 +248,8 @@
         - {'Bagging and Random Forests': "https://davidrosenberg.github.io/mlcourse/Lectures/11b.bagging-random-forests.pdf"}
         - {'Adaboost': "https://davidrosenberg.github.io/mlcourse/Lectures/11c.adaboost.pdf"}
       Notes:
-#        - {"Trees, Bootstrap, Bagging, and RF Questions": "https://davidrosenberg.github.io/mlcourse/ConceptChecks/9-Lec-Check.pdf"}
-#        - {"Trees, Bootstrap, Bagging, and RF Solutions": "https://davidrosenberg.github.io/mlcourse/ConceptChecks/9-Lec-Check_sol.pdf"}
+       - {"Trees, Bootstrap, Bagging, and RF Questions": "https://davidrosenberg.github.io/mlcourse/ConceptChecks/#9-Lec-Check.pdf"}
+       - {"Trees, Bootstrap, Bagging, and RF Solutions": "https://davidrosenberg.github.io/mlcourse/ConceptChecks/9-Lec-Check_sol.pdf"}
       References:
         - "JWHT 5.2 (Bootstrap)"
         - "HTF 7.11 (Bootstrap)"
@@ -259,7 +259,7 @@
     2019-04-17:
       Label: Lab
       Slides:
-#        - {'Gradient Boosting': "https://davidrosenberg.github.io/mlcourse/Lectures/11b.gradient-boosting.pdf"}
+       - {'Bagging and Boosting Questions': "https://davidrosenberg.github.io/mlcourse/Labs/bootstrap_bagging_boosting.pdf"}
       Notes:
 #        - {"Gradient Boosting": "https://davidrosenberg.github.io/mlcourse/Archive/2017/Labs/9-GBM-Notes.pdf"}
 #        - {"Boosting Questions": "https://davidrosenberg.github.io/mlcourse/ConceptChecks/boosting-Lec-Check.pdf"}
