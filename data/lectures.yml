@@ -278,10 +278,19 @@
     2019-04-23:
       Label: Lecture
       Slides:
-#        - {'Neural Networks': "https://davidrosenberg.github.io/mlcourse/Lectures/12a.neural-networks.pdf"}
+       - {'Gradient Boosting': "https://davidrosenberg.github.io/mlcourse/Lectures/11b.gradient-boosting.pdf"}
+       # - {'Neural Networks': "https://davidrosenberg.github.io/mlcourse/Lectures/12a.neural-networks.pdf"}
 #        - {'Back Propagation': "https://davidrosenberg.github.io/mlcourse/Lectures/12b.backpropagation.pdf"}
       Notes:
+       - {"Gradient Boosting": "https://davidrosenberg.github.io/mlcourse/Archive/2017/Labs/9-GBM-Notes.pdf"}
+       - {"gbm.py": "https://davidrosenberg.github.io/mlcourse/Archive/2017/Labs/gbm.py"}
+       - {"Exponential Distribution Gradient Boosting": "https://davidrosenberg.github.io/mlcourse/Notes/conditional-exponential-distributions.pdf"}
+       - {"Poisson Gradient Boosting": "https://davidrosenberg.github.io/mlcourse/Notes/poisson-gradient-boosting.pdf"}
       References:
+       - {Friedman's GBM Paper: http://statweb.stanford.edu/~jhf/ftp/trebst.pdf}
+       - {Ridgeway's GBM Guide: http://www.saedsayad.com/docs/gbm2.pdf}
+       - {XGBoost Paper: http://arxiv.org/abs/1603.02754}
+       - {"Bühlmann and Hothorn's Boosting Paper": https://projecteuclid.org/euclid.ss/1207580163}
 #        - {'Yes you should understand backprop (Karpathy)': "https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b"}
 #        - {'Challenges with backprop (Karpathy Lecture)': "https://youtu.be/gYpoJMlgyXA?t=13m44s"}
     2019-04-24:
