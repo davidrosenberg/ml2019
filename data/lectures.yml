@@ -279,13 +279,14 @@
       Label: Lecture
       Slides:
        - {'Gradient Boosting': "https://davidrosenberg.github.io/mlcourse/Lectures/11b.gradient-boosting.pdf"}
+       - {'Gradient Boosting Lab': "https://davidrosenberg.github.io/mlcourse/Labs/GBM_Lecture.pdf"}
        # - {'Neural Networks': "https://davidrosenberg.github.io/mlcourse/Lectures/12a.neural-networks.pdf"}
 #        - {'Back Propagation': "https://davidrosenberg.github.io/mlcourse/Lectures/12b.backpropagation.pdf"}
       Notes:
-       # - {"Gradient Boosting": "https://davidrosenberg.github.io/mlcourse/Archive/2017/Labs/9-GBM-Notes.pdf"}
+       - {"Gradient Boosting": "https://davidrosenberg.github.io/mlcourse/Archive/2017/Labs/9-GBM-Notes.pdf"}
        - {"gbm.py": "https://davidrosenberg.github.io/mlcourse/Archive/2017/Labs/gbm.py"}
        - {"Exponential Distribution Gradient Boosting": "https://davidrosenberg.github.io/mlcourse/Notes/conditional-exponential-distributions.pdf"}
-       # - {"Poisson Gradient Boosting": "https://davidrosenberg.github.io/mlcourse/Notes/poisson-gradient-boosting.pdf"}
+       - {"Poisson Gradient Boosting": "https://davidrosenberg.github.io/mlcourse/Notes/poisson-gradient-boosting.pdf"}
       References:
        - {Friedman's GBM Paper: http://statweb.stanford.edu/~jhf/ftp/trebst.pdf}
        - {Ridgeway's GBM Guide: http://www.saedsayad.com/docs/gbm2.pdf}
@@ -296,14 +297,14 @@
     2019-04-24:
       Label: Lab
       Slides:
-       - {'Gradient Boosting Lab': "https://davidrosenberg.github.io/mlcourse/Labs/GBM_Lecture.pdf"}
+       - {'Neural Networks': "https://davidrosenberg.github.io/mlcourse/Lectures/12a.neural-networks.pdf"}
       Notes:
-       - {"Gradient Boosting": "https://davidrosenberg.github.io/mlcourse/Archive/2017/Labs/9-GBM-Notes.pdf"}
+       # - {"Gradient Boosting": "https://davidrosenberg.github.io/mlcourse/Archive/2017/Labs/9-GBM-Notes.pdf"}
 #        - {"Boosting Questions": "https://davidrosenberg.github.io/mlcourse/ConceptChecks/boosting-Lec-Check.pdf"}
 #        - {"Boosting Solutions": "https://davidrosenberg.github.io/mlcourse/ConceptChecks/boosting-Lec-Check_sol.pdf"}
 #        - {"gbm.py": "https://davidrosenberg.github.io/mlcourse/Archive/2017/Labs/gbm.py"}
        # - {"Exponential Distribution Gradient Boosting": "https://davidrosenberg.github.io/mlcourse/Notes/conditional-exponential-distributions.pdf"}
-       - {"Poisson Gradient Boosting": "https://davidrosenberg.github.io/mlcourse/Notes/poisson-gradient-boosting.pdf"}
+       # - {"Poisson Gradient Boosting": "https://davidrosenberg.github.io/mlcourse/Notes/poisson-gradient-boosting.pdf"}
       References:
 #        - {Friedman's GBM Paper: http://statweb.stanford.edu/~jhf/ftp/trebst.pdf}
 #        - {Ridgeway's GBM Guide: http://www.saedsayad.com/docs/gbm2.pdf}
