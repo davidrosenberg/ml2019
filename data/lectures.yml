@@ -327,6 +327,8 @@
 #        - {"An Alternative to EM for GMM [Optional]": "https://arxiv.org/pdf/1706.03267.pdf"}
     2019-05-01:
       Label: Lab
+      Slides:
+       - {'Neural Networks Questions': "https://davidrosenberg.github.io/mlcourse/Labs/neural-network-questions.pdf"}
 -
   Title: Week 14
   Events:
