@@ -319,7 +319,7 @@
 #      Video: "https://youtu.be/tgCIAft_W24?t=48m48s"
       Slides:
        - {'Back Propagation': "https://davidrosenberg.github.io/mlcourse/Lectures/12b.backpropagation.pdf"}
-       - {'k-Means (See Video Link)': "https://davidrosenberg.github.io/mlcourse/Lectures/13a.k-means.pdf"}
+       - {'k-Means': "https://davidrosenberg.github.io/mlcourse/Lectures/13a.k-means.pdf"}
 #        - {'Gaussian Mixture Models': "https://davidrosenberg.github.io/mlcourse/Lectures/13b.mixture-models.pdf"}
 #        - {'General EM Algorithm': "https://davidrosenberg.github.io/mlcourse//Lectures/13c.EM-algorithm.pdf"}
       Notes:
