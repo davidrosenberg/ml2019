@@ -319,7 +319,7 @@
 #      Video: "https://youtu.be/tgCIAft_W24?t=48m48s"
       Slides:
        - {'Back Propagation': "https://davidrosenberg.github.io/mlcourse/Lectures/12b.backpropagation.pdf"}
-#        - {'k-Means (See Video Link)': "https://davidrosenberg.github.io/mlcourse/Lectures/13a.k-means.pdf"}
+       - {'k-Means (See Video Link)': "https://davidrosenberg.github.io/mlcourse/Lectures/13a.k-means.pdf"}
 #        - {'Gaussian Mixture Models': "https://davidrosenberg.github.io/mlcourse/Lectures/13b.mixture-models.pdf"}
 #        - {'General EM Algorithm': "https://davidrosenberg.github.io/mlcourse//Lectures/13c.EM-algorithm.pdf"}
       Notes:
@@ -327,7 +327,7 @@
        - {'Yes you should understand backprop (Karpathy)': "https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b"}
        - {'Challenges with backprop (Karpathy Lecture)': "https://youtu.be/gYpoJMlgyXA?t=13m44s"}
        - {"Michael Nielsen: How the backpropagation algorithm works": "http://neuralnetworksanddeeplearning.com/chap2.html"}
-##        - "HTF, 13.2.1 (k-means)"
+       - "HTF, 13.2.1 (k-means)"
         # - "Bishop 9.2,9.3 (GMM/EM)"
 #        - {"An Alternative to EM for GMM [Optional]": "https://arxiv.org/pdf/1706.03267.pdf"}
     2019-05-01:
