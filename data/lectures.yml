@@ -348,4 +348,6 @@
        - {"An Alternative to EM for GMM [Optional]": "https://arxiv.org/pdf/1706.03267.pdf"}
     2018-05-08:
       Label: Course Review
+      Slides:
+       - {Review for Final: "https:///davidrosenberg.github.io/mlcourse/Labs/ML_Final_Review.pdf"}
 
