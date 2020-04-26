@@ -5,8 +5,8 @@
       Label: ML Prereqs
 #      Video: "https://youtu.be/U6M0m9c9_Js"
       Slides:
-        - {Black Box Machine Learning: "https://davidrosenberg.github.io/mlcourse/Archive/2017Fall/Lectures/01.black-box-ML.pdf"}
-        - {Evaluating Classifiers: "https://davidrosenberg.github.io/mlcourse/Archive/2017Fall/Lectures/06b.classifier-performance.pdf"}
+        - {Black Box Machine Learning: "https://bloomberg.github.io/foml/#lecture-1-black-box-machine-learning"}
+        - {Evaluating Classifiers: "https://bloomberg.github.io/foml/#lecture-14-performance-evaluation"}
       Notes:
         - {Géron's Machine Learning Landscape: "https://github.com/ageron/handson-ml/blob/master/01_the_machine_learning_landscape.ipynb"}
         - {Géron's End-to-End Machine Learning: "https://github.com/ageron/handson-ml/blob/master/02_end_to_end_machine_learning_project.ipynb"}
@@ -19,25 +19,25 @@
     2019-01-29:
       Label: Lecture
       Slides:
-        - {Course Logistics and Overview: "https://davidrosenberg.github.io/mlcourse/Lectures/01a.course-logistics.pdf"}
-        - {Statistical Learning Theory: "https://davidrosenberg.github.io/mlcourse/Lectures/01b.intro-stat-learning-theory.pdf"}
-#        - {Stochastic Gradient Descent: "https://davidrosenberg.github.io/mlcourse/Lectures/01c.SGD.pdf"}
-        - {Excess Risk Decomposition: "https://davidrosenberg.github.io/mlcourse/Lectures/01c.excess-risk-decomposition.pdf"}
+        - {Course Logistics and Overview: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/01a.course-logistics.pdf"}
+        - {Statistical Learning Theory: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/01b.intro-stat-learning-theory.pdf"}
+#        - {Stochastic Gradient Descent: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/01c.SGD.pdf"}
+        - {Excess Risk Decomposition: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/01c.excess-risk-decomposition.pdf"}
       Notes:
-        - {Conditional Expectations: "https://davidrosenberg.github.io/mlcourse/Notes/conditional-expectations.pdf"}
-        - {SLT Concept Check Questions: "https://davidrosenberg.github.io/mlcourse/ConceptChecks/1-Lec-Check.pdf"}
-        - {SLT Concept Check Solutions: "https://davidrosenberg.github.io/mlcourse/ConceptChecks/1-Lec-Check_sol.pdf"}
+        - {Conditional Expectations: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Notes/conditional-expectations.pdf"}
+        - {SLT Concept Check Questions: "https://davidrosenberg.github.io/mlcourse/Archive/2019/ConceptChecks/1-Lec-Check.pdf"}
+        - {SLT Concept Check Solutions: "https://davidrosenberg.github.io/mlcourse/Archive/2019/ConceptChecks/1-Lec-Check_sol.pdf"}
       References:
 #        - {"Bottou's SGD Tricks": "http://leon.bottou.org/papers/bottou-tricks-2012"}
     2019-01-30:
       Label: Lab
       Slides:
-       - {Gradients and Directional Derivatives: "https://davidrosenberg.github.io/mlcourse/Labs/1-gradients-Slides.pdf"}
+       - {Gradients and Directional Derivatives: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Labs/1-gradients-Slides.pdf"}
       Notes:
-       - {Gradients and Directional Derivatives: "https://davidrosenberg.github.io/mlcourse/Labs/1-gradients-Notes_sol.pdf"}
-       - {Gradient Concept Check Questions: "https://davidrosenberg.github.io/mlcourse/ConceptChecks/1-Lab-Check.pdf"}
-       - {Gradient Concept Check Solutions: "https://davidrosenberg.github.io/mlcourse/ConceptChecks/1-Lab-Check_sol.pdf"}
-       - {Directional Derivatives and Approximation (Short): "https://davidrosenberg.github.io/mlcourse/Notes/directional-derivative.pdf"}
+       - {Gradients and Directional Derivatives: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Labs/1-gradients-Notes_sol.pdf"}
+       - {Gradient Concept Check Questions: "https://davidrosenberg.github.io/mlcourse/Archive/2019/ConceptChecks/1-Lab-Check.pdf"}
+       - {Gradient Concept Check Solutions: "https://davidrosenberg.github.io/mlcourse/Archive/2019/ConceptChecks/1-Lab-Check_sol.pdf"}
+       - {Directional Derivatives and Approximation (Short): "https://davidrosenberg.github.io/mlcourse/Archive/2019/Notes/directional-derivative.pdf"}
       References:
        - {Barnes "Matrix Differentiation" notes: "http://www.atmos.washington.edu/~dennis/MatrixCalculus.pdf"}
 -
@@ -46,23 +46,23 @@
     2019-02-05:
       Label: Lecture
       Slides:
-       - {Stochastic Gradient Descent: "https://davidrosenberg.github.io/mlcourse/Lectures/02a.SGD.pdf"}
-       - {Gradient Descent: "https://davidrosenberg.github.io/mlcourse/Lectures/02b.gradient-descent.pdf"}
-       - {L1 and L2 regularization: "https://davidrosenberg.github.io/mlcourse/Lectures/02c.L1L2-regularization.pdf"}
+       - {Stochastic Gradient Descent: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/02a.SGD.pdf"}
+       - {Gradient Descent: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/02b.gradient-descent.pdf"}
+       - {L1 and L2 regularization: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/02c.L1L2-regularization.pdf"}
       Notes:
-       - {PreLecture Concept Check Questions: "https://davidrosenberg.github.io/mlcourse/ConceptChecks/2-PreLec-Check.pdf"}
-       - {PreLecture Concept Check Solutions: "https://davidrosenberg.github.io/mlcourse/ConceptChecks/2-PreLec-Check_sol.pdf"}
-       - {Completing the Square: "https://davidrosenberg.github.io/mlcourse/Notes/completing-the-square.pdf"}
-       - {'Excess Risk, Stochastic Gradient Descent and L1/L2 Questions': "https://davidrosenberg.github.io/mlcourse/ConceptChecks/2-Lec-Check.pdf"}
-       - {'Excess Risk, Stochastic Gradient Descent and L1/L2 Solutions': "https://davidrosenberg.github.io/mlcourse/ConceptChecks/2-Lec-Check_sol.pdf"}
+       - {PreLecture Concept Check Questions: "https://davidrosenberg.github.io/mlcourse/Archive/2019/ConceptChecks/2-PreLec-Check.pdf"}
+       - {PreLecture Concept Check Solutions: "https://davidrosenberg.github.io/mlcourse/Archive/2019/ConceptChecks/2-PreLec-Check_sol.pdf"}
+       - {Completing the Square: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Notes/completing-the-square.pdf"}
+       - {'Excess Risk, Stochastic Gradient Descent and L1/L2 Questions': "https://davidrosenberg.github.io/mlcourse/Archive/2019/ConceptChecks/2-Lec-Check.pdf"}
+       - {'Excess Risk, Stochastic Gradient Descent and L1/L2 Solutions': "https://davidrosenberg.github.io/mlcourse/Archive/2019/ConceptChecks/2-Lec-Check_sol.pdf"}
       References:
         - "HTF Ch. 3"
     2019-02-06:
       Label: Lab
       Slides:
        # - {Grouping and Elastic Net: "https://davidrosenberg.github.io/mlcourse/Archive/2017/Lectures/3a.elastic-net.pdf"}
-       - {STL & Excess Risk Decomposition Demo Questions (ipynb) : "https://davidrosenberg.github.io/mlcourse/Labs/2-STL_Lab-Questions.ipynb"}
-       - {STL & Excess Risk Decomposition Demo Answers (ipynb) : "https://davidrosenberg.github.io/mlcourse/Labs/2-STL_Lab-Answers.ipynb"}
+       - {STL & Excess Risk Decomposition Demo Questions (ipynb) : "https://davidrosenberg.github.io/mlcourse/Archive/2019/Labs/2-STL_Lab-Questions.ipynb"}
+       - {STL & Excess Risk Decomposition Demo Answers (ipynb) : "https://davidrosenberg.github.io/mlcourse/Archive/2019/Labs/2-STL_Lab-Answers.ipynb"}
       References:
         # - "HTF 3.4"
 -
@@ -71,10 +71,10 @@
     2019-02-12:
       Label: Lecture
       Slides:
-       - {Elastic Net and Correlation: "https://davidrosenberg.github.io/mlcourse/Lectures/03a.elastic-net.pdf"}
-       - {Loss Functions: "https://davidrosenberg.github.io/mlcourse/Lectures/03b.loss-functions.pdf"}
+       - {Elastic Net and Correlation: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/03a.elastic-net.pdf"}
+       - {Loss Functions: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/03b.loss-functions.pdf"}
       Notes:
-       - {Elastic Net correlation theorem: "https://davidrosenberg.github.io/mlcourse/Notes/elastic-net-theorem.pdf"}
+       - {Elastic Net correlation theorem: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Notes/elastic-net-theorem.pdf"}
        - {Lasso and Elastic Net (ipynb): "https://github.com/davidrosenberg/mlcourse/blob/gh-pages/Notebooks/Lasso%20and%20Elastic%20Net/lasso_and_elastic_net.ipynb"}
       References:
        - "HTF 3.4"
@@ -82,11 +82,11 @@
     2019-02-13:
       Label: Lab
       Slides:
-       - {Subgradient Descent: "https://davidrosenberg.github.io/mlcourse/Lectures/03c.subgradient-descent-lasso.pdf"}
+       - {Subgradient Descent: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/03c.subgradient-descent-lasso.pdf"}
       Notes:
-       - {"Subgradients": "https://davidrosenberg.github.io/mlcourse/Labs/4-Subgradients-Notes_sol.pdf"}
-       - {Subgradients and Lagrangian Duality Questions: "https://davidrosenberg.github.io/mlcourse/ConceptChecks/3-Lab-Check.pdf"}
-       - {Subgradients and Lagrangian Duality Solutions: "https://davidrosenberg.github.io/mlcourse/ConceptChecks/3-Lab-Check_sol.pdf"}
+       - {"Subgradients": "https://davidrosenberg.github.io/mlcourse/Archive/2019/Labs/4-Subgradients-Notes_sol.pdf"}
+       - {Subgradients and Lagrangian Duality Questions: "https://davidrosenberg.github.io/mlcourse/Archive/2019/ConceptChecks/3-Lab-Check.pdf"}
+       - {Subgradients and Lagrangian Duality Solutions: "https://davidrosenberg.github.io/mlcourse/Archive/2019/ConceptChecks/3-Lab-Check_sol.pdf"}
       References:
        - {'Boyd subgradient notes': "http://web.stanford.edu/class/ee364b/lectures.html"}
 
@@ -97,27 +97,27 @@
     2019-02-19:
       Label: Lecture
       Slides:
-       - {Lagrangian Duality and Convex Optimization: "https://davidrosenberg.github.io/mlcourse/Lectures/04a.convex-optimization.pdf"}
-       - {Support Vector Machines: "https://davidrosenberg.github.io/mlcourse/Lectures/04b.SVM.pdf"}
-       - {SVM and Complementary Slackness: "https://davidrosenberg.github.io/mlcourse/Lectures/04c.SVM-ComplementarySlackness.pdf"}
-       - {Kernel Methods: "https://davidrosenberg.github.io/mlcourse/Lectures/05a.kernel-methods.pdf"}
-#        - {Lagrangian Duality in 10 Minutes (Optional)): "https://davidrosenberg.github.io/mlcourse/Lectures/04d.lagrangian-duality-in-ten-minutes.pdf"}
+       - {Lagrangian Duality and Convex Optimization: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/04a.convex-optimization.pdf"}
+       - {Support Vector Machines: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/04b.SVM.pdf"}
+       - {SVM and Complementary Slackness: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/04c.SVM-ComplementarySlackness.pdf"}
+       - {Kernel Methods: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/04d.kernel-methods.pdf"}
+#        - {Lagrangian Duality in 10 Minutes (Optional)): "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/04d.lagrangian-duality-in-ten-minutes.pdf"}
       Notes:
-       - {Pre-lecture warmup for SVM and Lagrangians: "https://davidrosenberg.github.io/mlcourse/Notes/svm-lecture-prep.pdf"}
-       - {SVM Insights from Duality: "https://davidrosenberg.github.io/mlcourse/Notes/SVM-main-points.pdf"}
-#        - {Subgradients and Lagrangian Duality Questions: "https://davidrosenberg.github.io/mlcourse/ConceptChecks/4-Lec-Check.pdf"}
-#        - {Subgradients and Lagrangian Duality Solutions: "https://davidrosenberg.github.io/mlcourse/ConceptChecks/4-Lec-Check_sol.pdf"}
+       - {Pre-lecture warmup for SVM and Lagrangians: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Notes/svm-lecture-prep.pdf"}
+       - {SVM Insights from Duality: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Notes/SVM-main-points.pdf"}
+#        - {Subgradients and Lagrangian Duality Questions: "https://davidrosenberg.github.io/mlcourse/Archive/2019/ConceptChecks/4-Lec-Check.pdf"}
+#        - {Subgradients and Lagrangian Duality Solutions: "https://davidrosenberg.github.io/mlcourse/Archive/2019/ConceptChecks/4-Lec-Check_sol.pdf"}
       References:
-       - {Support Vector Machines (Optional): "https://davidrosenberg.github.io/mlcourse/Notes/svm-notes.pdf"}
-       - {Extreme Abridgement of BV (Optional): "https://davidrosenberg.github.io/mlcourse/Notes/convex-optimization.pdf"}
+       - {Support Vector Machines (Optional): "https://davidrosenberg.github.io/mlcourse/Archive/2019/Notes/svm-notes.pdf"}
+       - {Extreme Abridgement of BV (Optional): "https://davidrosenberg.github.io/mlcourse/Archive/2019/Notes/convex-optimization.pdf"}
     2019-02-20:
       Label: Lab
       Slides:
-        - {Geometric Derivation of SVMs: "https://davidrosenberg.github.io/mlcourse/Labs/3-SVM-Slides.pdf"}
+        - {Geometric Derivation of SVMs: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Labs/3-SVM-Slides.pdf"}
 #        - {Features: "https://github.com/davidrosenberg/mlcourse/blob/gh-pages/Labs/4-Features/tex/04e.features.pdf"}
       Notes:
-        - {Geometric Derivation of SVMs: "https://davidrosenberg.github.io/mlcourse/Labs/3-SVM-Notes_sol.pdf"}
-        - {Uniqueness of SVM Solution: "https://davidrosenberg.github.io/mlcourse/Labs/UniquenessOfSVM.pdf"}
+        - {Geometric Derivation of SVMs: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Labs/3-SVM-Notes_sol.pdf"}
+        - {Uniqueness of SVM Solution: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Labs/UniquenessOfSVM.pdf"}
 #        - {Simplest Example: "https://github.com/davidrosenberg/mlcourse/blob/gh-pages/Notebooks/Features/simple_feature_transformations.ipynb"}
 #        - {Ingesting text with BOW: "https://github.com/davidrosenberg/mlcourse/blob/gh-pages/Notebooks/Features/test_BOW.ipynb"}
 #        - {Polynomial features: "https://github.com/davidrosenberg/mlcourse/blob/gh-pages/Notebooks/Features/polynomial_feature_comparison.ipynb"}
@@ -130,35 +130,35 @@
     2019-02-26:
       Label: Lecture
       Slides:
-        - {The Representer Theorem and Kernelization: "https://davidrosenberg.github.io/mlcourse/Lectures/05a.representer-theorem.pdf"}
-        - {Kernel Methods: "https://davidrosenberg.github.io/mlcourse/Lectures/05b.kernel-methods.pdf"}
+        - {The Representer Theorem and Kernelization: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/05a.representer-theorem.pdf"}
+        - {Kernel Methods: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/05b.kernel-methods.pdf"}
       Notes:
-       - {Kernel Concept Check Questions: "https://davidrosenberg.github.io/mlcourse/ConceptChecks/5-Lab-Check.pdf"}
-       - {Kernel Concept Check Solutions: "https://davidrosenberg.github.io/mlcourse/ConceptChecks/5-Lab-Check_sol.pdf"}
+       - {Kernel Concept Check Questions: "https://davidrosenberg.github.io/mlcourse/Archive/2019/ConceptChecks/5-Lab-Check.pdf"}
+       - {Kernel Concept Check Solutions: "https://davidrosenberg.github.io/mlcourse/Archive/2019/ConceptChecks/5-Lab-Check_sol.pdf"}
       References:
         - "SSBD Chapter 16"
         - {"A Survey of Kernels for Structured Data": "http://homepages.rpi.edu/~bennek/class/mmld/papers/p49-gartner.pdf"}
     2019-02-27:
       Label: Lab
       Slides:
-        - {Kernel Methods Continued: "https://davidrosenberg.github.io/mlcourse/Labs/5-kernel-methods-continued.pdf"}
+        - {Kernel Methods Continued: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Labs/5-kernel-methods-continued.pdf"}
 -
   Title: Week 6
   Events:
     2019-03-05:
       Label: Lecture
       Slides:
-       - {CitySense: "https://davidrosenberg.github.io/mlcourse/Lectures/05b.citysense.pdf"}
-       - {Maximum Likelihood: "https://davidrosenberg.github.io/mlcourse/Lectures/05c.MLE.pdf"}
-       - {Conditional Probability Models: "https://davidrosenberg.github.io/mlcourse/Lectures/06a.conditional-probability-models.pdf"}
+       - {CitySense: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/05b.citysense.pdf"}
+       - {Maximum Likelihood: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/05c.MLE.pdf"}
+       - {Conditional Probability Models: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/06a.conditional-probability-models.pdf"}
       Notes:
-       - {"Exponential Distribution Example (First part)": "https://davidrosenberg.github.io/mlcourse/Notes/conditional-exponential-distributions.pdf"}
-       - {Conditional Model Questions: "https://davidrosenberg.github.io/mlcourse/ConceptChecks/10-Lab-Check.pdf"}
-       - {Conditional Model Solutions: "https://davidrosenberg.github.io/mlcourse/ConceptChecks/10-Lab-Check_sol.pdf"}
+       - {"Exponential Distribution Example (First part)": "https://davidrosenberg.github.io/mlcourse/Archive/2019/Notes/conditional-exponential-distributions.pdf"}
+       - {Conditional Model Questions: "https://davidrosenberg.github.io/mlcourse/Archive/2019/ConceptChecks/10-Lab-Check.pdf"}
+       - {Conditional Model Solutions: "https://davidrosenberg.github.io/mlcourse/Archive/2019/ConceptChecks/10-Lab-Check_sol.pdf"}
     2019-03-06:
       Label: Lab
       Slides:
-       - {Review for Midterm: "https:///davidrosenberg.github.io/mlcourse/Labs/midterm-review.pdf"}
+       - {Review for Midterm: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Labs/midterm-review.pdf"}
 -
   Title: Week 7
   Events:
@@ -167,22 +167,22 @@
     2019-03-13:
       Label: Lab
       Slides:
-       - {Review for MLE and Conditional Model: "https:///davidrosenberg.github.io/mlcourse/Labs/Review-MLE-Conditional-probability-densities.pdf"}
+       - {Review for MLE and Conditional Model: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Labs/Review-MLE-Conditional-probability-densities.pdf"}
 -
   Title: Week 8
   Events:
     2019-03-26:
       Label: Lecture
       Slides:
-       - {'Bayesian Methods': "https://davidrosenberg.github.io/mlcourse/Lectures/08b.bayesian-methods.pdf"}
-       - {'Bayesian Conditional Models': "https://davidrosenberg.github.io/mlcourse/Lectures/08a.bayesian-regression.pdf"}
+       - {'Bayesian Methods': "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/08b.bayesian-methods.pdf"}
+       - {'Bayesian Conditional Models': "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/08a.bayesian-regression.pdf"}
       Notes:
-       - {"Proportionality Review": "https://davidrosenberg.github.io/mlcourse/Notes/proportionality.pdf"}
+       - {"Proportionality Review": "https://davidrosenberg.github.io/mlcourse/Archive/2019/Notes/proportionality.pdf"}
        - {"Thompson Sampling for Bernoulli Bandits [Optional]": "https://davidrosenberg.github.io/mlcourse/in-prep/thompson-sampling-bernoulli.pdf"}
        - {"Multivariate Gaussians (draft)": "https://davidrosenberg.github.io/mlcourse/in-prep/multivariate-gaussian.pdf"}
        - {"Bayesian Linear Regression (draft)": "https://davidrosenberg.github.io/mlcourse/in-prep/bayesian-regression.pdf"}
-       - {Bayesian Methods and Regression Questions: "https://davidrosenberg.github.io/mlcourse/ConceptChecks/11-Lec-Check.pdf"}
-       - {Bayesian Methods and Regression Solutions: "https://davidrosenberg.github.io/mlcourse/ConceptChecks/11-Lec-Check_sol.pdf"}
+       - {Bayesian Methods and Regression Questions: "https://davidrosenberg.github.io/mlcourse/Archive/2019/ConceptChecks/11-Lec-Check.pdf"}
+       - {Bayesian Methods and Regression Solutions: "https://davidrosenberg.github.io/mlcourse/Archive/2019/ConceptChecks/11-Lec-Check_sol.pdf"}
       References:
        - "Barber 9.1, 18.1"
        - "Bishop 3.3"
@@ -194,12 +194,12 @@
     2019-04-02:
       Label: Lecture
       Slides:
-       - {'Multiclass': "https://davidrosenberg.github.io/mlcourse/Lectures/09b.multiclass.pdf"}
-       # - {'Classification and Regression Trees': "https://davidrosenberg.github.io/mlcourse/Lectures/10a.trees.pdf"}
+       - {'Multiclass': "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/09b.multiclass.pdf"}
+       # - {'Classification and Regression Trees': "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/10a.trees.pdf"}
       Notes:
-       - {"Multiclass Questions": "https://davidrosenberg.github.io/mlcourse/ConceptChecks/7-Lec-Check.pdf"}
-       - {"Multiclass Solutions": "https://davidrosenberg.github.io/mlcourse/ConceptChecks/7-Lec-Check_sol.pdf"}
-#        - {"Proportionality Review": "https://davidrosenberg.github.io/mlcourse/Notes/proportionality.pdf"}
+       - {"Multiclass Questions": "https://davidrosenberg.github.io/mlcourse/Archive/2019/ConceptChecks/7-Lec-Check.pdf"}
+       - {"Multiclass Solutions": "https://davidrosenberg.github.io/mlcourse/Archive/2019/ConceptChecks/7-Lec-Check_sol.pdf"}
+#        - {"Proportionality Review": "https://davidrosenberg.github.io/mlcourse/Archive/2019/Notes/proportionality.pdf"}
 #        - {"Multivariate Gaussians (draft)": "https://davidrosenberg.github.io/mlcourse/in-prep/multivariate-gaussian.pdf"}
 #        - {"Bayesian Linear Regression (draft)": "https://davidrosenberg.github.io/mlcourse/in-prep/bayesian-regression.pdf"}
 
@@ -213,10 +213,10 @@
     2019-04-03:
       Label: Lab
       Slides:
-       - {'Structured-Prediction-and-Bayesian-Recap': "https://davidrosenberg.github.io/mlcourse/Labs/structured_prediction_bayesian_recap.pdf"}
+       - {'Structured-Prediction-and-Bayesian-Recap': "https://davidrosenberg.github.io/mlcourse/Archive/2019/Labs/structured_prediction_bayesian_recap.pdf"}
       Notes:
-#        - {"Multiclass Questions": "https://davidrosenberg.github.io/mlcourse/ConceptChecks/7-Lec-Check.pdf"}
-#        - {"Multiclass Solutions": "https://davidrosenberg.github.io/mlcourse/ConceptChecks/7-Lec-Check_sol.pdf"}
+#        - {"Multiclass Questions": "https://davidrosenberg.github.io/mlcourse/Archive/2019/ConceptChecks/7-Lec-Check.pdf"}
+#        - {"Multiclass Solutions": "https://davidrosenberg.github.io/mlcourse/Archive/2019/ConceptChecks/7-Lec-Check_sol.pdf"}
       References:
        # - "SSBD Chapter 17"
 #        - {In Defense of One-Vs-All Classification: "http://www.jmlr.org/papers/v5/rifkin04a.html"}
@@ -227,14 +227,14 @@
     2019-04-09:
       Label: Lecture
       Slides:
-       - {'Classification and Regression Trees': "https://davidrosenberg.github.io/mlcourse/Lectures/10a.trees.pdf"}
+       - {'Classification and Regression Trees': "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/10a.trees.pdf"}
       References:
        - "JWHT 8.1 (Trees)"
        - "HTF 9.2 (Trees)"
     2019-04-10:
       Label: Lab
       Slides:
-       - {'Multiclass and Trees Questions': "https://davidrosenberg.github.io/mlcourse/Labs/Multiclass_trees_week10.pdf"}
+       - {'Multiclass and Trees Questions': "https://davidrosenberg.github.io/mlcourse/Archive/2019/Labs/Multiclass_trees_week10.pdf"}
       References:
 #        - "JWHT 5.2 (Bootstrap)"
 #        - "HTF 7.11 (Bootstrap)"
@@ -244,12 +244,12 @@
     2019-04-16:
       Label: Lecture
       Slides:
-        - {'Intro to the Bootstrap': "https://davidrosenberg.github.io/mlcourse/Lectures/11a.bootstrap.pdf"}
-        - {'Bagging and Random Forests': "https://davidrosenberg.github.io/mlcourse/Lectures/11b.bagging-random-forests.pdf"}
-        - {'Adaboost': "https://davidrosenberg.github.io/mlcourse/Lectures/11c.adaboost.pdf"}
+        - {'Intro to the Bootstrap': "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/11a.bootstrap.pdf"}
+        - {'Bagging and Random Forests': "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/11b.bagging-random-forests.pdf"}
+        - {'Adaboost': "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/11c.adaboost.pdf"}
       Notes:
-       - {"Trees, Bootstrap, Bagging, and RF Questions": "https://davidrosenberg.github.io/mlcourse/ConceptChecks/#9-Lec-Check.pdf"}
-       - {"Trees, Bootstrap, Bagging, and RF Solutions": "https://davidrosenberg.github.io/mlcourse/ConceptChecks/9-Lec-Check_sol.pdf"}
+       - {"Trees, Bootstrap, Bagging, and RF Questions": "https://davidrosenberg.github.io/mlcourse/Archive/2019/ConceptChecks/9-Lec-Check.pdf"}
+       - {"Trees, Bootstrap, Bagging, and RF Solutions": "https://davidrosenberg.github.io/mlcourse/Archive/2019/ConceptChecks/9-Lec-Check_sol.pdf"}
       References:
         - "JWHT 5.2 (Bootstrap)"
         - "HTF 7.11 (Bootstrap)"
@@ -259,14 +259,14 @@
     2019-04-17:
       Label: Lab
       Slides:
-       - {'Bagging and Boosting Questions': "https://davidrosenberg.github.io/mlcourse/Labs/bootstrap_bagging_boosting.pdf"}
+       - {'Bagging and Boosting Questions': "https://davidrosenberg.github.io/mlcourse/Archive/2019/Labs/bootstrap_bagging_boosting.pdf"}
       Notes:
 #        - {"Gradient Boosting": "https://davidrosenberg.github.io/mlcourse/Archive/2017/Labs/9-GBM-Notes.pdf"}
-#        - {"Boosting Questions": "https://davidrosenberg.github.io/mlcourse/ConceptChecks/boosting-Lec-Check.pdf"}
-#        - {"Boosting Solutions": "https://davidrosenberg.github.io/mlcourse/ConceptChecks/boosting-Lec-Check_sol.pdf"}
+#        - {"Boosting Questions": "https://davidrosenberg.github.io/mlcourse/Archive/2019/ConceptChecks/boosting-Lec-Check.pdf"}
+#        - {"Boosting Solutions": "https://davidrosenberg.github.io/mlcourse/Archive/2019/ConceptChecks/boosting-Lec-Check_sol.pdf"}
 #        - {"gbm.py": "https://davidrosenberg.github.io/mlcourse/Archive/2017/Labs/gbm.py"}
-#        - {"Exponential Distribution Gradient Boosting": "https://davidrosenberg.github.io/mlcourse/Notes/conditional-exponential-distributions.pdf"}
-#        - {"Poisson Gradient Boosting": "https://davidrosenberg.github.io/mlcourse/Notes/poisson-gradient-boosting.pdf"}
+#        - {"Exponential Distribution Gradient Boosting": "https://davidrosenberg.github.io/mlcourse/Archive/2019/Notes/conditional-exponential-distributions.pdf"}
+#        - {"Poisson Gradient Boosting": "https://davidrosenberg.github.io/mlcourse/Archive/2019/Notes/poisson-gradient-boosting.pdf"}
       References:
 #        - {Friedman's GBM Paper: http://statweb.stanford.edu/~jhf/ftp/trebst.pdf}
 #        - {Ridgeway's GBM Guide: http://www.saedsayad.com/docs/gbm2.pdf}
@@ -278,15 +278,15 @@
     2019-04-23:
       Label: Lecture
       Slides:
-       - {'Gradient Boosting': "https://davidrosenberg.github.io/mlcourse/Lectures/11b.gradient-boosting.pdf"}
-       - {'Gradient Boosting Lab': "https://davidrosenberg.github.io/mlcourse/Labs/GBM_Lecture.pdf"}
-       # - {'Neural Networks': "https://davidrosenberg.github.io/mlcourse/Lectures/12a.neural-networks.pdf"}
-#        - {'Back Propagation': "https://davidrosenberg.github.io/mlcourse/Lectures/12b.backpropagation.pdf"}
+       - {'Gradient Boosting': "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/11b.gradient-boosting.pdf"}
+       - {'Gradient Boosting Lab': "https://davidrosenberg.github.io/mlcourse/Archive/2019/Labs/GBM_Lecture.pdf"}
+       # - {'Neural Networks': "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/12a.neural-networks.pdf"}
+#        - {'Back Propagation': "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/12b.backpropagation.pdf"}
       Notes:
        - {"Gradient Boosting": "https://davidrosenberg.github.io/mlcourse/Archive/2017/Labs/9-GBM-Notes.pdf"}
        - {"gbm.py": "https://davidrosenberg.github.io/mlcourse/Archive/2017/Labs/gbm.py"}
-       - {"Exponential Distribution Gradient Boosting": "https://davidrosenberg.github.io/mlcourse/Notes/conditional-exponential-distributions.pdf"}
-       - {"Poisson Gradient Boosting": "https://davidrosenberg.github.io/mlcourse/Notes/poisson-gradient-boosting.pdf"}
+       - {"Exponential Distribution Gradient Boosting": "https://davidrosenberg.github.io/mlcourse/Archive/2019/Notes/conditional-exponential-distributions.pdf"}
+       - {"Poisson Gradient Boosting": "https://davidrosenberg.github.io/mlcourse/Archive/2019/Notes/poisson-gradient-boosting.pdf"}
       References:
        - {Friedman's GBM Paper: http://statweb.stanford.edu/~jhf/ftp/trebst.pdf}
        - {Ridgeway's GBM Guide: http://www.saedsayad.com/docs/gbm2.pdf}
@@ -297,14 +297,14 @@
     2019-04-24:
       Label: Lab
       Slides:
-       - {'Neural Networks': "https://davidrosenberg.github.io/mlcourse/Lectures/12a.neural-networks.pdf"}
+       - {'Neural Networks': "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/12a.neural-networks.pdf"}
       Notes:
        # - {"Gradient Boosting": "https://davidrosenberg.github.io/mlcourse/Archive/2017/Labs/9-GBM-Notes.pdf"}
-#        - {"Boosting Questions": "https://davidrosenberg.github.io/mlcourse/ConceptChecks/boosting-Lec-Check.pdf"}
-#        - {"Boosting Solutions": "https://davidrosenberg.github.io/mlcourse/ConceptChecks/boosting-Lec-Check_sol.pdf"}
+#        - {"Boosting Questions": "https://davidrosenberg.github.io/mlcourse/Archive/2019/ConceptChecks/boosting-Lec-Check.pdf"}
+#        - {"Boosting Solutions": "https://davidrosenberg.github.io/mlcourse/Archive/2019/ConceptChecks/boosting-Lec-Check_sol.pdf"}
 #        - {"gbm.py": "https://davidrosenberg.github.io/mlcourse/Archive/2017/Labs/gbm.py"}
-       # - {"Exponential Distribution Gradient Boosting": "https://davidrosenberg.github.io/mlcourse/Notes/conditional-exponential-distributions.pdf"}
-       # - {"Poisson Gradient Boosting": "https://davidrosenberg.github.io/mlcourse/Notes/poisson-gradient-boosting.pdf"}
+       # - {"Exponential Distribution Gradient Boosting": "https://davidrosenberg.github.io/mlcourse/Archive/2019/Notes/conditional-exponential-distributions.pdf"}
+       # - {"Poisson Gradient Boosting": "https://davidrosenberg.github.io/mlcourse/Archive/2019/Notes/poisson-gradient-boosting.pdf"}
       References:
 #        - {Friedman's GBM Paper: http://statweb.stanford.edu/~jhf/ftp/trebst.pdf}
 #        - {Ridgeway's GBM Guide: http://www.saedsayad.com/docs/gbm2.pdf}
@@ -318,10 +318,10 @@
       Label: Lecture
 #      Video: "https://youtu.be/tgCIAft_W24?t=48m48s"
       Slides:
-       - {'Back Propagation': "https://davidrosenberg.github.io/mlcourse/Lectures/12b.backpropagation.pdf"}
-       - {'k-Means': "https://davidrosenberg.github.io/mlcourse/Lectures/13a.k-means.pdf"}
-#        - {'Gaussian Mixture Models': "https://davidrosenberg.github.io/mlcourse/Lectures/13b.mixture-models.pdf"}
-#        - {'General EM Algorithm': "https://davidrosenberg.github.io/mlcourse//Lectures/13c.EM-algorithm.pdf"}
+       - {'Back Propagation': "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/12b.backpropagation.pdf"}
+       - {'k-Means': "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/13a.k-means.pdf"}
+#        - {'Gaussian Mixture Models': "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/13b.mixture-models.pdf"}
+#        - {'General EM Algorithm': "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/13c.EM-algorithm.pdf"}
       Notes:
       References:
        - {'Yes you should understand backprop (Karpathy)': "https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b"}
@@ -333,15 +333,15 @@
     2019-05-01:
       Label: Lab
       Slides:
-       - {'Neural Networks Questions': "https://davidrosenberg.github.io/mlcourse/Labs/neural-network-questions.pdf"}
+       - {'Neural Networks Questions': "https://davidrosenberg.github.io/mlcourse/Archive/2019/Labs/neural-network-questions.pdf"}
 -
   Title: Week 14
   Events:
     2019-05-07:
       Label: Lecture
       Slides:
-       - {'Gaussian Mixture Models': "https://davidrosenberg.github.io/mlcourse/Lectures/13b.mixture-models.pdf"}
-       - {'General EM Algorithm': "https://davidrosenberg.github.io/mlcourse//Lectures/13c.EM-algorithm.pdf"}
+       - {'Gaussian Mixture Models': "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/13b.mixture-models.pdf"}
+       - {'General EM Algorithm': "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/13c.EM-algorithm.pdf"}
       Notes:
       References:
        - "Bishop 9.2,9.3 (GMM/EM)"
@@ -349,5 +349,5 @@
     2018-05-08:
       Label: Course Review
       Slides:
-       - {Review for Final: "https:///davidrosenberg.github.io/mlcourse/Labs/ML_Final_Review.pdf"}
+       - {Review for Final: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Labs/ML_Final_Review.pdf"}
 
